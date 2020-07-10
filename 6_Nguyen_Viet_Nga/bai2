@@ -1,0 +1,2 @@
+ten=input("nhap ten cua ban \n")
+print("xin chao toi la", ten)
